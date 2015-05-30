@@ -1,3 +1,6 @@
+package gameMechanics;
+
+import players.Player;
 
 public class GameMap 
 {
@@ -12,6 +15,5 @@ public class GameMap
 	}
 	public void update()
 	{
-		
 	}
 }
