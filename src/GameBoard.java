@@ -1,4 +1,4 @@
 
-public class GameBoard {
+public class GameBaord {
 
 }
